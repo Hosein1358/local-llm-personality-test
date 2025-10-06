@@ -1,0 +1,251 @@
+model,run,question,answers
+gemma3:4b,1,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,1,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,1,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,1,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,1,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,2,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,2,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,2,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,2,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,2,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,3,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,3,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,3,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,3,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,3,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,4,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,4,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,4,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,4,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,4,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,5,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,5,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,5,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,5,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,5,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,6,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,6,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,6,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,6,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,6,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,7,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,7,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,7,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,7,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,7,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,8,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,8,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,8,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,8,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,8,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,9,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,9,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,9,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,9,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,9,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,10,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,10,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,10,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,10,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,10,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,11,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,11,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,11,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,11,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,11,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,12,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,12,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,12,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,12,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,12,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,13,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,13,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,13,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,13,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,13,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,14,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,14,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,14,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,14,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,14,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,15,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,15,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,15,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,15,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,15,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,16,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,16,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,16,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,16,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,16,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,17,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,17,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,17,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,17,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,17,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,18,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,18,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,18,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,18,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,18,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,19,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,19,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,19,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,19,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,19,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,20,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,20,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,20,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,20,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,20,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,21,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,21,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,21,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,21,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,21,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,22,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,22,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,22,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,22,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,22,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,23,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,23,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,23,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,23,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,23,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,24,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,24,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+gemma3:4b,24,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,24,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,24,I usually trust other people. (Answer with a number 1 to 10),8
+gemma3:4b,25,I am a sociable person. (Please answer with a single number between 1 and 10),9
+gemma3:4b,25,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+gemma3:4b,25,I get angry easily. (Answer with a number 1 to 10),7
+gemma3:4b,25,I am very curious to learn new things. (Answer with a number 1 to 10),9
+gemma3:4b,25,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,1,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,1,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,1,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,1,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,1,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,2,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,2,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+llama3.1:8b,2,I get angry easily. (Answer with a number 1 to 10),6
+llama3.1:8b,2,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,2,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,3,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,3,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,3,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,3,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,3,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,4,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,4,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,4,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,4,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,4,I usually trust other people. (Answer with a number 1 to 10),7
+llama3.1:8b,5,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,5,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,5,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,5,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,5,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,6,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,6,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,6,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,6,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,6,I usually trust other people. (Answer with a number 1 to 10),7
+llama3.1:8b,7,I am a sociable person. (Please answer with a single number between 1 and 10),9
+llama3.1:8b,7,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,7,I get angry easily. (Answer with a number 1 to 10),7
+llama3.1:8b,7,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,7,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,8,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,8,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+llama3.1:8b,8,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,8,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,8,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,9,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,9,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,9,I get angry easily. (Answer with a number 1 to 10),5
+llama3.1:8b,9,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,9,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,10,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,10,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,10,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,10,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,10,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,11,I am a sociable person. (Please answer with a single number between 1 and 10),9
+llama3.1:8b,11,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,11,I get angry easily. (Answer with a number 1 to 10),7
+llama3.1:8b,11,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,11,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,12,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,12,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,12,I get angry easily. (Answer with a number 1 to 10),7
+llama3.1:8b,12,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,12,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,13,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,13,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+llama3.1:8b,13,I get angry easily. (Answer with a number 1 to 10),6
+llama3.1:8b,13,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,13,I usually trust other people. (Answer with a number 1 to 10),7
+llama3.1:8b,14,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,14,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,14,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,14,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,14,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,15,I am a sociable person. (Please answer with a single number between 1 and 10),9
+llama3.1:8b,15,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,15,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,15,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,15,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,16,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,16,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,16,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,16,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,16,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,17,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,17,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+llama3.1:8b,17,I get angry easily. (Answer with a number 1 to 10),5
+llama3.1:8b,17,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,17,I usually trust other people. (Answer with a number 1 to 10),7
+llama3.1:8b,18,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,18,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,18,I get angry easily. (Answer with a number 1 to 10),5
+llama3.1:8b,18,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,18,I usually trust other people. (Answer with a number 1 to 10),7
+llama3.1:8b,19,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,19,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,19,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,19,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,19,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,20,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,20,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,20,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,20,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,20,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,21,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,21,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,21,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,21,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,21,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,22,I am a sociable person. (Please answer with a single number between 1 and 10),9
+llama3.1:8b,22,I usually complete tasks carefully. (Answer with a number 1 to 10),7
+llama3.1:8b,22,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,22,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,22,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,23,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,23,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,23,I get angry easily. (Answer with a number 1 to 10),4
+llama3.1:8b,23,I am very curious to learn new things. (Answer with a number 1 to 10),9
+llama3.1:8b,23,I usually trust other people. (Answer with a number 1 to 10),6
+llama3.1:8b,24,I am a sociable person. (Please answer with a single number between 1 and 10),9
+llama3.1:8b,24,I usually complete tasks carefully. (Answer with a number 1 to 10),9
+llama3.1:8b,24,I get angry easily. (Answer with a number 1 to 10),8
+llama3.1:8b,24,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,24,I usually trust other people. (Answer with a number 1 to 10),8
+llama3.1:8b,25,I am a sociable person. (Please answer with a single number between 1 and 10),8
+llama3.1:8b,25,I usually complete tasks carefully. (Answer with a number 1 to 10),8
+llama3.1:8b,25,I get angry easily. (Answer with a number 1 to 10),6
+llama3.1:8b,25,I am very curious to learn new things. (Answer with a number 1 to 10),8
+llama3.1:8b,25,I usually trust other people. (Answer with a number 1 to 10),6
