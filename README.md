@@ -62,7 +62,8 @@ After running, the following files will be generated in the results/ folder:
 These results show the outcome of running the questionnaire 20 times.
 
 ### Model Comparison
-![Model Comparison](results/models_comparison.png)
+<img src="results/models_comparison.png" width="600"/>
+
 
 ### Personality Radar Chart
-![Radar Chart](results/radar_chart.png)
+<img src="results/radar_chart.png" width="600"/>
